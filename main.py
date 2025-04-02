@@ -6,7 +6,7 @@ from data import  questions, answers
 from Phrases import  sl
 from random import  randint
 
-TOKEN = "977114700:AAEXR46cIpw4D5hCxDiVTl2EWzNJwCKyY5w"
+TOKEN = ""
 bot = telebot.TeleBot(TOKEN)
 
 # Список задач и правильных ответов
